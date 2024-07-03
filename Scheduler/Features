@@ -1,0 +1,30 @@
+Feature Required -
+- Main
+    All conditions
+    -Press enter to continue and 0 to exit
+
+-ADD/Remove Task-
+    +Sr. NO.
+    +Details
+    +Description
+    +Quantity (No.)
+    +Priority
+    ---Buttons---
+    +Decrease Quantity By
+    + Task Completed
+
+Update Task-
+    -View all details
+    -Select Task to Update by srno.
+    - recursive task to update flow
+View Task-
+    -View Complete task
+    -BY highest priority
+    -Create 2 View +- BY Sort Function
+                   +- Accissible only by only view task
+
+
+
+Updates release-
+1. update command not giving error on giving out of range column number.
+2. Remove Task Stuck In Select() command
