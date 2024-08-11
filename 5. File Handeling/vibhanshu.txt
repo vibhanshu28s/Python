@@ -1,0 +1,7 @@
+1)Before install open the setup file(all the .exe files)--right click--properties--compatibility--enable 'run this program in compatibility mode'--select Windows 7
+2)Install the MMX3G software it shows Install Drivers...FAIL! and promote you to Restart your PC.
+3)Restart and change the compatibility mode for MMX353G icon in the desktop same as the step 1.
+4)And go to the c:\program files(x86)\MMX353G 3G USB MANAGER\driver\Win7_64\
+here you find the following files and do the following methods. i) cmnsmdm--right click--install---ok ii) cmnsser--right click--install--ok
+
+5)Thats all...run the program you will find that network is searching and Available.
